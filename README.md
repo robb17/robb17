@@ -1,4 +1,4 @@
-### How's it going, lads 👋
+### Hey there! 👋
 Thanks for checking out my profile on this here Guthub. You're probably reading this text because you searched "donkhouse github," and my profile was the top result. And while I'd love to share my codebase with those of you who genuinely want to help, I've spent far too much time on it to risk the rise of copycat sites. I love working on this platform––it's by far the largest project I've ever dreamed up, and I love how much you all seem to be enjoying it. If you'd like to get in touch about anything related to the Donkhouse, feel free to tweet me [@DonkhousePoker](https://twitter.com/DonkhousePoker).
 
 If you're here for another reason, I appreciate you, too. I have a few additional projects that may interest you:
